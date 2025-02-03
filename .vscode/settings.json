@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "ms-python.autopep8"
+
+    "editor.rulers": [
+        80,
+        120
+    ]
+}
